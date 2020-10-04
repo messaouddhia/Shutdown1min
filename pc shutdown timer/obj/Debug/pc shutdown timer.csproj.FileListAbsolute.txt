@@ -1,0 +1,15 @@
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\bin\Debug\pc shutdown timer.exe.config
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\bin\Debug\pc shutdown timer.exe
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\bin\Debug\pc shutdown timer.pdb
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.csprojAssemblyReference.cache
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\MainWindow.g.cs
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\App.g.cs
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer_MarkupCompile.cache
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer_MarkupCompile.lref
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\MainWindow.baml
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.g.resources
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc_shutdown_timer.Properties.Resources.resources
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.csproj.GenerateResource.cache
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.csproj.CoreCompileInputs.cache
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.exe
+C:\Users\messa\Desktop\c#pc shutdown timer\pc shutdown timer\pc shutdown timer\obj\Debug\pc shutdown timer.pdb
